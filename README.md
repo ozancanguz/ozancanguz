@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi,I am Ozan:
 I am a junior android developer.<br><br>
 
 
